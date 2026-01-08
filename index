@@ -25,8 +25,7 @@ const App = () => {
       title: "Seigneur Vampire & Fléau",
       desc: "Il ne recherche pas l'amour, mais la force. Il méprise la chevalerie qu'il considère comme une hypocrisie.",
       role: "Leader",
-      // REMPLACEZ CECI PAR LE CHEMIN DE VOTRE IMAGE (ex: "./duc_rouge.jpg" ou une URL)
-      image: "/path/to/your/duc_rouge.jpg", 
+      image: "/img/duc_rouge.png", 
       color: "from-neutral-800 to-black"
     },
     {
